@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jogo de Matemática</string>
+
+    <string-array name="niveis_dificuldade">
+        <item>Fácil</item>
+        <item>Médio</item>
+        <item>Difícil</item>
+    </string-array>
+</resources>
